@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Pushkar Prajapati
 
-<!--
-**PrajapatiPushkar/PrajapatiPushkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Java Backend Developer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Java, Spring Boot, DSA
+- 💻 Building backend projects
+- 🎯 Goal: Become professional backend developer
+- 📫 Reach me: LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Java
+- Spring Boot
+- OOP
+- DSA
+- Git & GitHub
+
+## 📌 Projects
+- Student Management System
+- REST API Project (Coming Soon)
+
+Thanks for visiting my profile!
+
+
