@@ -13,6 +13,7 @@
 - OOP
 - DSA
 - Git & GitHub
+- I code daily with consistency
 
 ## 📌 Projects
 - Student Management System
