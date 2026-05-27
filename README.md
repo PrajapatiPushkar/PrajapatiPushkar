@@ -1,149 +1,227 @@
 <div align="center">
 
-# 👋 Hi, I'm Pushkar Prajapati
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Pushkar Prajapati
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+Learner;Building+Scalable+Backend+Systems;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Enthusiast;DSA+Learner;Future+Software+Engineer;Building+Scalable+Backend+Systems" />
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d3c5f1c-18e4-4a5d-8c3f-3b5c0f5e9f46.gif" width="700">
 
-## 🚀 Aspiring Java Backend Developer
-
-💻 Passionate about Backend Development using Java & Spring Boot  
-🌱 Currently mastering DSA, System Design & Microservices  
-🔥 Building real-world scalable backend applications  
-🎯 Goal: Become a Professional Software Engineer  
-⚡ Love solving problems & writing clean code  
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 💫 About Me
 
-<p align="center">
+```java
+class PushkarPrajapati {
+
+    String role = "Java Backend Developer";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "MySQL",
+        "PostgreSQL"
+    };
+
+    String currentFocus =
+        "DSA + System Design + Scalable Backend Architecture";
+
+    String lifeGoal =
+        "Become a Professional Software Engineer";
+}
+```
+
+💻 Passionate about building scalable backend systems  
+🚀 Learning Microservices & System Design  
+🔥 Love solving DSA problems and building projects  
+⚡ Focused on clean code & backend architecture  
+🎯 Consistency + Hard Work = Growth  
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/pushkarprajapati/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+
 <a href="mailto:kppusakar@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
+
 <a href="https://github.com/PrajapatiPushkar">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# ⚒️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
+<div align="center">
+
+## 👨‍💻 Languages
 <img src="https://skillicons.dev/icons?i=java" />
-</p>
 
-### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=maven" />
-<img src="https://skillicons.dev/icons?i=hibernate" />
-</p>
+---
 
-### 🗄️ Database
-<p>
+## ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
+
+---
+
+## 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=idea" />
-<img src="https://skillicons.dev/icons?i=postman" />
-</p>
 
 ---
 
-# 📌 Featured Projects
+## 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
 
-## 🏋️ Fitness Monolith Tracking System
-🔐 Secure Fitness Tracking Backend using Spring Boot  
-✅ JWT Authentication  
-✅ OTP-Based Password Reset  
-✅ Activity Tracking  
-✅ Recommendation System  
-✅ Swagger API Documentation  
+</div>
 
 ---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🏋️ Fitness Tracking System
+
+### 🔥 Features
+- JWT Authentication
+- OTP Password Reset
+- Activity Tracking
+- AI Recommendations
+- Swagger Documentation
+- Spring Boot Backend
+
+</td>
+
+<td width="50%">
 
 ## 👨‍💼 Employee Management System
-📊 Backend CRUD Application using Spring Boot & MySQL  
-✅ Employee Management  
-✅ REST APIs  
-✅ Database Integration  
-✅ Layered Architecture  
+
+### 🔥 Features
+- CRUD Operations
+- REST APIs
+- MySQL Integration
+- Layered Architecture
+- Spring Data JPA
+- Exception Handling
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Fitness Microservices Application (Coming Soon)
-🧠 Advanced scalable backend architecture  
-✅ Spring Cloud  
-✅ API Gateway  
-✅ Eureka Service Discovery  
-✅ JWT Security  
-✅ AI Recommendation Engine  
+# 🧠 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,docker,kafka,postgres,mysql,git,github" />
+
+</div>
+
+- ✅ Data Structures & Algorithms
+- ✅ Java Backend Development
+- ✅ Spring Boot
+- ✅ Microservices
+- ✅ System Design
+- ✅ API Development
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrajapatiPushkar&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrajapatiPushkar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PrajapatiPushkar&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajapatiPushkar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-</p>
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PrajapatiPushkar&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajapatiPushkar&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrajapatiPushkar&theme=tokyonight&row=1&column=6" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrajapatiPushkar&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# 💻 Dev Quote
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajapatiPushkar&theme=tokyo-night" />
-</p>
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
-# 💡 Developer Mindset
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PrajapatiPushkar/PrajapatiPushkar/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# ⚡ Developer Mindset
 
 ```java
 while(!success){
-    tryAgain();
+
     learn();
+    build();
     improve();
     stayConsistent();
+
 }
 ```
 
 ---
 
-# 🔥 Current Focus
+<div align="center">
 
-✅ Java Backend Development  
-✅ Spring Boot Projects  
-✅ Data Structures & Algorithms  
-✅ Microservices Architecture  
-✅ Problem Solving  
+## 🚀 “Code. Learn. Build. Repeat.”
 
----
-
-<h3 align="center">✨ “Consistency beats talent when talent doesn’t work hard.” ✨</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
 </div>
